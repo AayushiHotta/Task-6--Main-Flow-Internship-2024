@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f1ebc7; /* Pale pink background */
+}
+
+h1 {
+  color: #0b0b0b;
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif}
